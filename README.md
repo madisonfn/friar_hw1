@@ -1,2 +1,3 @@
 # friar_hw1
 Creative Code Homework 1
+For the first homework project, the main thing I wanted to create was an animation of color, so that’s where I started. Through research in Processing and YouTube, I learned to use lerpColor so that when the mouse is pressed, each circle blends smoothly from one random color to another. I also used a separate document for my Shape class to keep my code organized and avoid unnecessary repetition. From there, I went back to basics and added connecting lines and points that snap to the grid of my circles to bring order into the composition. Lastly, to fulfill the requirements, I used a loop to introduce pseudo-randomness in the placement and size of my circles, which change whenever the spacebar is pressed.
